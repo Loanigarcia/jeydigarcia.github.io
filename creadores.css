@@ -1,0 +1,35 @@
+body{
+    background-color: #129494;
+}
+
+header h1{
+    background-color:#129494;
+    color: #ffffff;
+    padding-top: 30px;
+    border-bottom: 5px solid #ffffff;
+    font-size: 40px;
+    margin: 15px;
+    text-align: center;
+    font-family: "Algerian";
+}
+
+.perfil{
+    text-align: center;
+    font-size: 17px;
+}
+
+p{
+    text-align: justify;
+    font-size: 17px;
+    margin: 20px;
+    border-bottom: 3px solid #ffffff;
+}
+
+footer{
+    background-color: #1ae4e4;
+    color: black;
+    text-align: center;
+    padding: 9px;
+    font-size: 14PX;
+    font-family: "Algerian";
+}

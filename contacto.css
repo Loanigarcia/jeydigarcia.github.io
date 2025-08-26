@@ -1,0 +1,76 @@
+body{
+    background-color: #0a8989;
+   
+}
+/*encabezado*/
+
+header {
+    background-color: #28b3b3;
+    color: #ffffff;
+    padding-top: 30px;
+    min-height: 40px;
+    border-bottom: 5px solid #ffffff;
+    font-size: 10px;
+    margin: 15px;
+    text-align: center;
+}
+
+/*propiedades de resaltar CEM RAMON ROSA*/
+
+   header .resaltado, header .actual a {
+    color: #000000;
+    font-weight: bold;
+   }
+
+   .logo img {
+    width: 120px;
+    height: 100px;
+   }
+
+
+.social h1{
+    font-family: "Bodoni MT Poster Compressed";
+    text-align: center;
+    font-weight: bold; /*letra negrita*/
+    color: #ffffff;
+   
+}
+
+.sociales{
+    text-align: center;
+    padding-top: 40px; /*margen superior*/
+    padding-bottom: 40px; /*margen inferior*/
+}
+
+.sociales li{
+    display: inline-block ;/*posicion horizontal de las imagenes*/
+    padding-left: 40px;
+}
+
+.sociales li h4 {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+.ubicacion{
+    text-align: center;
+    padding-top: 40px; /*margen superior*/
+    padding-bottom: 40px; /*margen inferior*/
+}
+
+.ubicacion p{
+    font-family: Arial;
+    text-align: center;
+    font-weight: bold; /*letra negrita*/
+    color: #ffffff;
+    font-size: 25px;
+}
+footer{
+    background-color: #28b3b3;
+   color: #000000;
+    text-align: center;
+    padding: 10px;
+    font-size: 15PX;
+    font-family: Algerian;
+
+}
